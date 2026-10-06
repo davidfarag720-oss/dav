@@ -1,0 +1,23 @@
+# Vivado generated outputs; retain project files, HDL, constraints and IP settings.
+**/*.cache/
+**/*.gen/
+**/*.hw/
+**/*.ip_user_files/
+**/*.runs/
+**/*.sim/
+**/.Xil/
+*.jou
+*.log
+*.str
+*.dcp
+*.bit
+*.ltx
+
+# LTspice simulation outputs.
+*.raw
+*.op.raw
+*.net
+
+# Python caches.
+__pycache__/
+*.pyc

@@ -1,4 +1,9 @@
 # Digital Audio Visualizer (DAV) - UCLA IEEE 2025-26
+Personal continuation: [davidfarag720-oss/dav](https://github.com/davidfarag720-oss/dav),
+forked from [sonirohan/dav](https://github.com/sonirohan/dav) with the shared history preserved.
+Additional local Vivado projects and IP settings are documented in
+[`local_projects/README.md`](local_projects/README.md); circuit schematics are in [`circuits`](circuits).
+
 ## **_Contributors:_** David Farag, Rohan Soni (UCLA '28)
 
 This repository contains the hardware implementation files for DAV, specifically developed for the Basys3 FPGA. Currently, the codebase focuses on foundational signal processing and display controller modules required for the final capstone project.
